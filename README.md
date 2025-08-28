@@ -2,14 +2,14 @@
 
 <p align="center">
   <strong>Front-End Developer</strong><br/>
-  NEXT.JS • REACT NATIVE • JAVASCRIPT • HTML • CSS
+  NEXT.JS • REACT NATIVE • JAVASCRIPT • HTML • CSS • TAILWIND CSS
 </p>
 
 ---
 
 ### 🛠 Stack Principal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ### 🚀 Projetos em Destaque
 - 🔹 **Opera** → App mobile (React Native + Expo)
 - 🔹 **Chamado Farma** → Sistema corporativo em Next.js
-- 🔹 **Analise de Carta de Crédito** → Análise de Carta de Crédito
+- 🔹 **Análise de Cartas de Crédito** → Análise de Cartas de Crédito
 
 ---
 
