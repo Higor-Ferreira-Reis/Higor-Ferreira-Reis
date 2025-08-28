@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">⚡ Higor Ferreira Reis ⚡</h1>
 
-<!--
-**Higor-Ferreira-Reis/Higor-Ferreira-Reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Front-End Developer</strong><br/>
+  NEXT.JS • REACT NATIVE • JAVASCRIPT • HTML • CSS
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Stack Principal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+### 📊 Performance
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Higor-Ferreira-Reis&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=C68A37&icon_color=C68A37"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-Ferreira-Reis&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C68A37&icon_color=C68A37"/>
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+- 🔹 **Opera** → App mobile (React Native + Expo)
+- 🔹 **Chamado Farma** → Sistema corporativo em Next.js
+- 🔹 **Analise de Carta de Crédito** → Análise de Carta de Crédito
+
+---
+
+### 📡 Contato
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Higor-Ferreira-Reis">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">💀 “Code hard, stay sharp.” 💀</p>
