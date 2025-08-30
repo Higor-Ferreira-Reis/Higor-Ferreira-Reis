@@ -24,17 +24,17 @@
 
 ### 🚀 Projetos em Destaque
 - 🔹 **Opera** → App mobile (React Native + Expo)
-- 🔹 **Chamado Farma** → Sistema corporativo em Next.js
+- 🔹 **Chamado Farma** → Sistema corporativo em Laravel
 - 🔹 **Análise de Cartas de Crédito** → Análise de Cartas de Crédito
 
 ---
 
 ### 📡 Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/higoreis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="higorreisfr@gmail.com">
     <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Higor-Ferreira-Reis">
